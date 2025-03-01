@@ -8,9 +8,7 @@ A real-world student attendance system which recognizes face of student and atte
 
 ## Developers
 
-- [@TharunreddyR](https://github.com/R-TharunReddy)
-- [@Vamsi Bhogaraju](https://github.com/vamsibhogaraju)
-- [@Navamshuram](https://github.com/navamshuram/Attendance-Management-System-Using-Facial-Recognition)
+- - [@HarikaAdapareddy]((https://github.com/harika0225))n)
 
 
 ## Demo
